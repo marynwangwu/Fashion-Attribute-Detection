@@ -3,7 +3,7 @@
 
 [abstract here]
 
-Below are each folder in the repo.  The raw segmentations and images can be downloaded from [https://github.com/yumingj/DeepFashion-MultiModal].  Paths to this data may need to be updated throughout the code to reproduce results.  After downloading the data, run `data_preprocessing.ipynb`.  Then train and evaluate the segmentation model and mask images using `segmentation_model.ipynb`.  Finally each classification model can be trained and evaluated in parallel.
+Below are each folder in the repo.  The raw segmentations and images can be downloaded from https://github.com/yumingj/DeepFashion-MultiModal.  Paths to this data may need to be updated throughout the code to reproduce results.  After downloading the data, run `data_preprocessing.ipynb`.  Then train and evaluate the segmentation model and mask images using `segmentation_model.ipynb`.  Finally each classification model can be trained and evaluated in parallel.
 
 ## EDA
 - `EDA.ipynb` - contains exploratory data analysis of raw data

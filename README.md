@@ -7,7 +7,7 @@ Below are each folder in the repo.  The raw segmentations and images can be down
 
 ## EDA
 - `EDA.ipynb` - contains exploratory data analysis of raw data
-- 
+  
 ## data
 - `data_preprocessing.ipynb` - data preprocessing for metadata, segmentations, and images as described in the report
 - `full_data_classification_EDA.ipynb` - additional EDA of preprocessed data distributions
